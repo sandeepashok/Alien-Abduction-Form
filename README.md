@@ -4,6 +4,6 @@ This is a simple application made with HTML & CSS which takes your input and res
 
 Check it out! 👇
 
-sandeepashok.github.io/forms.html
+https://sandeepashok.github.io/forms.html
 
 
